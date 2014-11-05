@@ -72,7 +72,7 @@ function hobs(){
                 <a  onclick='show_user(\" ".$row['id']."\" )";
                     echo "'>
                     <h5>Hob Name: ".$row['name']."</h5>
-                    <p>Users: ";
+                    <p>Followers: ";
         echo $count;
         echo"</p>
                 </a>
